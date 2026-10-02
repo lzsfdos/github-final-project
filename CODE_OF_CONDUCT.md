@@ -68,9 +68,17 @@ reporter of any incident.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
 
+Project maintainers are responsible for reviewing and investigating reported violations. They may take appropriate action based on the nature and severity of the violation.
+
+Possible responses may include:
+- A warning or request to stop the unacceptable behavior.
+- Removal of inappropriate comments, commits, or other contributions.
+- Temporary or permanent restriction from participating in the project.
+- Reporting serious or unlawful behavior to the appropriate authorities when necessary.
+
+All enforcement decisions will be made fairly and consistently while respecting the privacy of those involved.
 ### 1. Correction
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
